@@ -1,1 +1,1 @@
-In this project, I utilize Recurrent Neural Network to create Time series for forecasting Walmart Stock 
+In this project, I utilize Recurrent Neural Network to generate Time series data for forecasting Walmart Stock 
